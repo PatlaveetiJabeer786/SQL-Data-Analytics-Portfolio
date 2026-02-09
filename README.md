@@ -18,5 +18,4 @@ Date Functions: Extracting peak hours and daily trends from 48,000+ records.
 
 Business Logic: Creating a "Best/Worst Sellers" reporting framework for menu optimization.
 
-Step 3: Link it to your Resume
-Now that the code is live, you can put the link directly in your resume under the "Personal Projects" section.
+
