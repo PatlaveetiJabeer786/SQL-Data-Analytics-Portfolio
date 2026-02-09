@@ -18,4 +18,15 @@ Date Functions: Extracting peak hours and daily trends from 48,000+ records.
 
 Business Logic: Creating a "Best/Worst Sellers" reporting framework for menu optimization.
 
+## 📊 Pizza Sales Dashboard Overview
+Here is a look at the interactive dashboard built to monitor peak order times and sales performance:
+
+### Home View (General KPIs)
+![Pizza Home Dashboard](Dash_Board_1.jpg)
+
+### Best vs. Worst Sellers Framework
+![Pizza Best Sellers](Dash_Board_2.jpg)
+
+*You can download the full .pbix file from the repository to explore the DAX measures and data model.*
+
 
