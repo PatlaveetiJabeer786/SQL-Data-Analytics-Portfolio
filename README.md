@@ -58,7 +58,7 @@ I was given the raw CSV dataset and asked to build a complete analytics solution
 ![Home Dashboard](https://github.com/PatlaveetiJabeer786/Pizza-sales-Analysis-Project/blob/main/Dash_Board_1.jpeg)
 
 ### 🏆 Page 2 — Best & Worst Sellers
-![Best Worst Dashboard](images/best_worst_dashboard.png)
+![Best Worst Dashboard](https://github.com/PatlaveetiJabeer786/Pizza-sales-Analysis-Project/blob/main/Dash_Board_2.jpeg)
 
 ---
 
